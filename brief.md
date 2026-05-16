@@ -201,7 +201,7 @@ Tulis **1 dokumen 1–2 halaman** (PDF) untuk Bu Sarah sebagai *executive summar
 Submit dalam bentuk **1 folder ZIP** dengan struktur:
 
 ```
-nama_lengkap_bootcamp_final/
+nama_lengkap_ujian_sql/
 ├── 01_data_understanding.sql
 ├── 01_erd.png 
 ├── 01_observations.xlsx
